@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\bin\Debug\Damier.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\bin\Debug\Damier.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\bin\Debug\Damier.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.Damier.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier\obj\Debug\Damier.csprojResolveAssemblyReference.cache

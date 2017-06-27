@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\bin\Debug\Damier Rouge et jaune.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier_Rouge_et_jaune.Form1.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier_Rouge_et_jaune.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier Rouge et jaune.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\bin\Debug\Damier Rouge et jaune.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\bin\Debug\Damier Rouge et jaune.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier Rouge et jaune.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier Rouge et jaune.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\Damier Rouge et jaune\obj\Debug\Damier Rouge et jaune.csprojResolveAssemblyReference.cache

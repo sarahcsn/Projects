@@ -1,0 +1,10 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\bin\Debug\DialogueModal.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\bin\Debug\DialogueModal.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\bin\Debug\DialogueModal.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.DialogueModal.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.FenInvocation.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialogueModal\obj\Debug\DialogueModal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\bin\Debug\DialConnexion.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.IdentifiezVous.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.SeConnecterSurUneAppli.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\bin\Debug\DialConnexion.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\bin\Debug\DialConnexion.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\bin\Debug\DialogueModal.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\bin\Debug\DialogueModal.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\DialConnexion\obj\Debug\DialConnexion.pdb

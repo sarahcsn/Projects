@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afpa.séance2Atelier1.exercice2", "Afpa.séance2Atelier1.exercice2\Afpa.séance2Atelier1.exercice2.csproj", "{FC717C86-A541-46D3-934D-B04F41894F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC717C86-A541-46D3-934D-B04F41894F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC717C86-A541-46D3-934D-B04F41894F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC717C86-A541-46D3-934D-B04F41894F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC717C86-A541-46D3-934D-B04F41894F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

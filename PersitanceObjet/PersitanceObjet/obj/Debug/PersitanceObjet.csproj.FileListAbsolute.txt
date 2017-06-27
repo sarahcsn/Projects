@@ -1,0 +1,8 @@
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\bin\Debug\PersitanceObjet.exe.config
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\bin\Debug\PersitanceObjet.exe
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\bin\Debug\PersitanceObjet.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\obj\Debug\PersitanceObjet.csprojResolveAssemblyReference.cache
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\obj\Debug\PersitanceObjet.exe
+c:\users\cdi\documents\visual studio 2015\Projects\PersitanceObjet\PersitanceObjet\obj\Debug\PersitanceObjet.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\PersitanceObjet\PersitanceObjet\bin\Debug\ModelSalarie.dll
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\PersitanceObjet\PersitanceObjet\bin\Debug\ModelSalarie.pdb

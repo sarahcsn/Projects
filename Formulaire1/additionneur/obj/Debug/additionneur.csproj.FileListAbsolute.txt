@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\bin\Debug\additionneur.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\bin\Debug\additionneur.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\bin\Debug\additionneur.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.additionneur.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\additionneur\obj\Debug\additionneur.pdb

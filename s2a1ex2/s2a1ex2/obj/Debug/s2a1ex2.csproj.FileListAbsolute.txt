@@ -1,0 +1,6 @@
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\bin\Debug\s2a1ex2.exe.config
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\bin\Debug\s2a1ex2.exe
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\bin\Debug\s2a1ex2.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\obj\Debug\s2a1ex2.exe
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\obj\Debug\s2a1ex2.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\s2a1ex2\s2a1ex2\obj\Debug\s2a1ex2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\cdi\documents\visual studio 2015\Projects\ModelSalarie\ModelSalarie\bin\Debug\ModelSalarie.dll
+c:\users\cdi\documents\visual studio 2015\Projects\ModelSalarie\ModelSalarie\bin\Debug\ModelSalarie.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\ModelSalarie\ModelSalarie\obj\Debug\ModelSalarie.csprojResolveAssemblyReference.cache
+c:\users\cdi\documents\visual studio 2015\Projects\ModelSalarie\ModelSalarie\obj\Debug\ModelSalarie.dll
+c:\users\cdi\documents\visual studio 2015\Projects\ModelSalarie\ModelSalarie\obj\Debug\ModelSalarie.pdb

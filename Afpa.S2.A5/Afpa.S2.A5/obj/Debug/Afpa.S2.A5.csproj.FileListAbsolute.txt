@@ -1,0 +1,6 @@
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\bin\Debug\Afpa.S2.A5.exe.config
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\obj\Debug\Afpa.S2.A5.csprojResolveAssemblyReference.cache
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\bin\Debug\Afpa.S2.A5.exe
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\bin\Debug\Afpa.S2.A5.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\obj\Debug\Afpa.S2.A5.exe
+c:\users\cdi\documents\visual studio 2015\Projects\Afpa.S2.A5\Afpa.S2.A5\obj\Debug\Afpa.S2.A5.pdb

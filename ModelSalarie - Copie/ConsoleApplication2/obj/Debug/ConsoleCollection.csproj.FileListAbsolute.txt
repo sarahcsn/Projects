@@ -1,0 +1,8 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\bin\Debug\ModelSalarie.dll
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\bin\Debug\ModelSalarie.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\ConsoleApplication2\obj\Debug\ConsoleCollection.csprojResolveAssemblyReference.cache

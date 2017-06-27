@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\bin\Debug\JeuxCaracteres.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\bin\Debug\JeuxCaracteres.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\bin\Debug\JeuxCaracteres.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.Form1.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\JeuxCaracteres\obj\Debug\JeuxCaracteres.pdb

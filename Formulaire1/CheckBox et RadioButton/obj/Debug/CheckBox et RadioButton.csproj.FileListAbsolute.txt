@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\bin\Debug\CheckBox et RadioButton.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\bin\Debug\CheckBox et RadioButton.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\bin\Debug\CheckBox et RadioButton.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox_et_RadioButton.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox et RadioButton.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox et RadioButton.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox et RadioButton.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox et RadioButton.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\CheckBox et RadioButton\obj\Debug\CheckBox_et_RadioButton.Policetext.resources

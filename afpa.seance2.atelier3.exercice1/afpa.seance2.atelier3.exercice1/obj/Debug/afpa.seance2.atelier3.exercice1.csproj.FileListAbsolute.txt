@@ -1,0 +1,6 @@
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\bin\Debug\afpa.seance2.atelier3.exercice1.exe.config
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\bin\Debug\afpa.seance2.atelier3.exercice1.exe
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\bin\Debug\afpa.seance2.atelier3.exercice1.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\obj\Debug\afpa.seance2.atelier3.exercice1.csprojResolveAssemblyReference.cache
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\obj\Debug\afpa.seance2.atelier3.exercice1.exe
+c:\users\cdi\documents\visual studio 2015\Projects\afpa.seance2.atelier3.exercice1\afpa.seance2.atelier3.exercice1\obj\Debug\afpa.seance2.atelier3.exercice1.pdb

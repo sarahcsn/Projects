@@ -1,0 +1,9 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\bin\Debug\TestNatureDesCaracteres.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\bin\Debug\TestNatureDesCaracteres.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\bin\Debug\TestNatureDesCaracteres.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.Properties.Resources.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.TestCaracteres.resources
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.csproj.GenerateResource.Cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\Formulaire1\TestNatureDesCaracteres\obj\Debug\TestNatureDesCaracteres.csprojResolveAssemblyReference.cache

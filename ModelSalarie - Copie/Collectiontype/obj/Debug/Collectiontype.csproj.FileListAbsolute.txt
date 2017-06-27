@@ -1,0 +1,8 @@
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\bin\Debug\Collectiontype.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\bin\Debug\Collectiontype.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\bin\Debug\Collectiontype.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\bin\Debug\ModelSalarie.dll
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\bin\Debug\ModelSalarie.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\obj\Debug\Collectiontype.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\obj\Debug\Collectiontype.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\ModelSalarie\Collectiontype\obj\Debug\Collectiontype.pdb

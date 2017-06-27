@@ -1,0 +1,6 @@
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\bin\Debug\GestionDesExceptions.exe.config
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\bin\Debug\GestionDesExceptions.exe
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\bin\Debug\GestionDesExceptions.pdb
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\obj\Debug\GestionDesExceptions.csprojResolveAssemblyReference.cache
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\obj\Debug\GestionDesExceptions.exe
+c:\users\cdi\documents\visual studio 2015\Projects\GestionDesExceptions\GestionDesExceptions\obj\Debug\GestionDesExceptions.pdb
